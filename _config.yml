@@ -2,9 +2,7 @@ title: Thang Do # your name (or website title) here
 logo: "images/Thang.png.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br>A learner,
-a runner,
-a scientist <br>
+  <br>A learner,/n a runner,/n a scientist <br>
   Second description 
   <br><br>
   <a href="https://www.linkedin.com/in/thang-do-trong-747b7562/">View My LinkedIn Profile</a> 
